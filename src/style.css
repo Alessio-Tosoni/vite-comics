@@ -4,3 +4,13 @@
   box-sizing: border-box;
 }
 
+body{background: #222;}
+header{
+  background: white;
+  max-height: 130px
+}
+.paginaAttiva{
+  color: blueviolet;
+  padding: 50px 0;
+  border-bottom: 3px solid blueviolet;
+}

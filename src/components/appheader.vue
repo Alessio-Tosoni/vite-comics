@@ -3,7 +3,7 @@
         name: "Appheader",
         data() {
             return {
-                paginaAttiva: 2,
+                paginaAttiva: 0,
                 menuLinks: [
                     "CHARACTERS", "COMICS", "MOVIES", "TV", "GAMES", "COLLECTIBLES", "VIDEOS", "FANS", "NEWS", "SHOP"
                 ]

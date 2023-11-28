@@ -15,7 +15,7 @@
 </script>
 
 <template>
-    
+    <div class="AppMain flex jc-cen  ai-cen c-wht">INSERIRE CONTENUTO</div>
 </template>
 
 <style scoped>

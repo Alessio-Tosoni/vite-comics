@@ -1,26 +1,29 @@
 <script>
 import AppHeader from './components/AppHeader.vue'
+import AppMain from './components/AppMain.vue'
 import Store from './components/Store.vue'
-// import AppProdotti from './components/AppProdotti.vue'
-// import AppFooter from './components/AppFooter.vue'
+import Misc from './components/Misc.vue'
+import Contacts from './components/Contacts.vue'
 
 export default {
 	components: {
 		AppHeader,
+		AppMain,
 		Store,
-		// AppProdotti,
-		// AppFooter,
+		Misc,
+		Contacts,
 	}
 }
 </script>
 
 <template>
+
 	<AppHeader />
+	<AppMain />
 	<Store />
+	<Misc />
+	<Contacts />
 		
-		
-	
-	<!-- <AppFooter /> -->
 </template>
 
 <style scoped></style>

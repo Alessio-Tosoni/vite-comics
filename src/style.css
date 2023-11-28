@@ -4,7 +4,11 @@
   box-sizing: border-box;
 }
 
-body{background: #222;}
+body{
+  background: #222;
+  width: 60%;
+  margin:150px auto;
+}
 header{
   background: white;
   max-height: 130px
@@ -13,4 +17,33 @@ header{
   color: blueviolet;
   padding: 50px 0;
   border-bottom: 3px solid blueviolet;
+}
+.AppMain{
+  min-height: 150px;
+  background-color: #333;
+}
+.store{
+  min-height: 200px;
+  margin: auto;
+}
+.locandine{
+  object-fit: cover;
+  width: 20%;
+  margin-right: 12px;
+}
+.misc{
+  color:  white;
+  background-image: url(./assets/img/footer-bg.jpg);
+  min-height: 200px;
+}
+.my-footer{
+  background: #333;
+  min-height: 100px;
+}
+.my-button{
+  border: 2px solid blueviolet;
+  padding: 10px;
+}
+.follow{
+  color: blueviolet;
 }

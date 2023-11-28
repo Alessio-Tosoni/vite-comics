@@ -1,12 +1,12 @@
 <script>
-import appheader from './components/appheader.vue'
+import AppHeader from './components/AppHeader.vue'
 // import AppJumbo from './components/AppJumbo.vue'
 // import AppProdotti from './components/AppProdotti.vue'
 // import AppFooter from './components/AppFooter.vue'
 
 export default {
 	components: {
-		appheader,
+		AppHeader,
 		// AppJumbo,
 		// AppProdotti,
 		// AppFooter,

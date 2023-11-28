@@ -1,6 +1,6 @@
 <script>
     export default {
-        name: "appheader",
+        name: "AppHeader",
         data() {
             return {
                 menuLinks: [

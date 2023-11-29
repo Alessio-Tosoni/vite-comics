@@ -13,7 +13,7 @@
 </script>
 
 <template>
-    <div class="my-footer flex jc-sb ai-cen c-wht">
+    <div class="my-footer flex jc-sa ai-cen c-wht">
         <div class="my-button ml-50">SIGN-UP NOW!</div>
         <div class="flex jc-sb ai-cen mr-50">
             <div class="follow mo-12">FOLLOW US</div>

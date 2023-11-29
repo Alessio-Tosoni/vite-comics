@@ -17,6 +17,7 @@
 .as-cen{align-self: center;}
 .as-fs{align-self: flex-start;}
 .as-fe{align-self: flex-end;}
+
 /* border */
 .bor-12{border-radius:12px;}
 .bor-30{border-radius: 30px;}
@@ -107,6 +108,8 @@
 .fs-24{font-size: 24px;}
 .fs-20{font-size: 20px;}
 .fs-18{font-size: 18px;}
+.fs-14{font-size: 14px;}
+.fs-10{font-size: 10px;}
 .fw-9{font-weight: 900;}
 .fw-7{font-weight: 700;}
 .fw-4{font-weight: 400;}

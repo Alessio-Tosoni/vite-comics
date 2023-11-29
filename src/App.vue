@@ -1,6 +1,7 @@
 <script>
 import AppHeader from './components/AppHeader.vue'
-import AppMain from './components/AppMain.vue'
+import AppJumbo from './components/AppJumbo.vue'
+import AppFumetti from './components/AppFumetti.vue'
 import Store from './components/Store.vue'
 import Misc from './components/Misc.vue'
 import Contacts from './components/Contacts.vue'
@@ -8,7 +9,8 @@ import Contacts from './components/Contacts.vue'
 export default {
 	components: {
 		AppHeader,
-		AppMain,
+		AppJumbo,
+		AppFumetti,
 		Store,
 		Misc,
 		Contacts,
@@ -19,7 +21,8 @@ export default {
 <template>
 
 	<AppHeader />
-	<AppMain />
+	<AppJumbo />
+	<AppFumetti />
 	<Store />
 	<Misc />
 	<Contacts />

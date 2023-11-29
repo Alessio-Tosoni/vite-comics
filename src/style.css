@@ -6,8 +6,9 @@
 
 body{
   background: #222;
-  width: 60%;
-  margin:150px auto;
+ 
+ 
+  
 }
 header{
   background: white;
@@ -18,10 +19,23 @@ header{
   padding: 50px 0;
   border-bottom: 3px solid blueviolet;
 }
-.AppMain{
-  min-height: 150px;
-  background-color: #333;
+.AppJumbo{
+  min-height: 300px;
+  background-image: url(./assets/img/jumbotron.jpg);
+  background-size: cover;
+  background-position: top;
+  
 }
+.container{
+  text-align: center;
+  width: 70%;
+  margin:20px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
 .store{
   min-height: 200px;
   margin: auto;

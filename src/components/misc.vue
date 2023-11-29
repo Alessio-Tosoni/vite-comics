@@ -29,7 +29,7 @@
 </script>
 
 <template>
-    <div class="misc flex jc-sb ai-cen">
+    <div class="misc flex jc-sa ai-cen">
         <div class="colSx flex ai-fs  c-wht ml-50">
             <div class=" flex clmn ">
                <div class="flex clmn ">
